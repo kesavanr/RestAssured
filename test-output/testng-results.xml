@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6975" started-at="2021-03-15T15:57:35 IST" finished-at="2021-03-15T15:57:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6975" started-at="2021-03-15T15:57:35 IST" finished-at="2021-03-15T15:57:42 IST">
+      <class name="com.restAssured.concepts.Get_Request">
+        <test-method status="PASS" signature="getAllRepos()[pri:1, instance:com.restAssured.concepts.Get_Request@1e965684]" name="getAllRepos" duration-ms="6900" started-at="2021-03-15T15:57:35 IST" finished-at="2021-03-15T15:57:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllRepos -->
+      </class> <!-- com.restAssured.concepts.Get_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

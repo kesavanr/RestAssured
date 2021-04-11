@@ -1,0 +1,29 @@
+{
+  "companyname": "abc techonologies",
+  "location": "india",
+  "status": "true",
+  "projects": [
+    {
+      "project": "e-commerce",
+      "departments": [
+        {
+          "developers": 10,
+          "manualtesters": 2,
+          "automations": 5
+        }
+      ]
+    },
+    {
+      "project": "healthcare",
+      "departments": [
+        {
+          "developers": 7,
+          "manualtesters": 1,
+          "automations": 4
+        }
+      ]
+    }
+  ],
+  "innogration": 2009,
+  "annualIncome":2000000
+}

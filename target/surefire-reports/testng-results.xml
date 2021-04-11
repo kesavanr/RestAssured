@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20798" started-at="2021-03-15T14:33:04 IST" finished-at="2021-03-15T14:33:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20798" started-at="2021-03-15T14:33:04 IST" finished-at="2021-03-15T14:33:25 IST">
+      <class name="com.restAssured.concepts.Get_Request">
+        <test-method status="PASS" signature="getAllRepos()[pri:1, instance:com.restAssured.concepts.Get_Request@56235b8e]" name="getAllRepos" duration-ms="5530" started-at="2021-03-15T14:33:04 IST" finished-at="2021-03-15T14:33:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllRepos -->
+        <test-method status="PASS" signature="createRepo()[pri:2, instance:com.restAssured.concepts.Get_Request@56235b8e]" name="createRepo" duration-ms="4503" started-at="2021-03-15T14:33:10 IST" finished-at="2021-03-15T14:33:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRepo -->
+        <test-method status="PASS" signature="getRepo()[pri:3, instance:com.restAssured.concepts.Get_Request@56235b8e]" name="getRepo" duration-ms="2990" started-at="2021-03-15T14:33:14 IST" finished-at="2021-03-15T14:33:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRepo -->
+        <test-method status="PASS" signature="updateRepo()[pri:4, instance:com.restAssured.concepts.Get_Request@56235b8e]" name="updateRepo" duration-ms="2277" started-at="2021-03-15T14:33:17 IST" finished-at="2021-03-15T14:33:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateRepo -->
+        <test-method status="PASS" signature="getAllReposTopic()[pri:5, instance:com.restAssured.concepts.Get_Request@56235b8e]" name="getAllReposTopic" duration-ms="2875" started-at="2021-03-15T14:33:20 IST" finished-at="2021-03-15T14:33:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllReposTopic -->
+        <test-method status="PASS" signature="deleteRepo()[pri:6, instance:com.restAssured.concepts.Get_Request@56235b8e]" name="deleteRepo" duration-ms="2569" started-at="2021-03-15T14:33:22 IST" finished-at="2021-03-15T14:33:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRepo -->
+      </class> <!-- com.restAssured.concepts.Get_Request -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

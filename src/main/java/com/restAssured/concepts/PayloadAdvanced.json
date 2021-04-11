@@ -1,0 +1,35 @@
+{
+	"name":"kesavan",
+	"age":"36",
+	"Professional":"QA",
+	"framework":"cucumber",
+	"totalExp":"9",
+	"Experience" :[
+		{
+			"year" :"2006-2010",
+			"company":"SSPL",
+			"exp":"4",
+			"deparments" :[
+				{
+					"dept":"developer",
+					"totalEmployee":"15"
+				}
+			]
+		},
+		{
+			"year" :"2010-2015",
+			"company":"Ameritech",
+			"exp":"5",
+			"deparments" :[
+				{
+					"dept":"grafix",
+					"totalEmployee":"25"
+				},
+				{
+					"dept":"software",
+					"totalEmployee":"10"
+				}
+			]
+		}
+	]
+}
